@@ -10,11 +10,14 @@ AutArch-Support@Prevas.se
 The latest news will be presented here -- news page --  
 !Can we really keep up a steady news flow???!
 <br/>
-## AutArch Manual
-The last version of the AutArch Manual can be downloaded from the link below.  
--- Insert link --
-<br/>
 ## Issues
 Issues are used to report bugs or add feature requests.  
 For more information regarding issues please go to -- issue page link --
 <br/>
+## AutArch Manual
+The last version of the AutArch Manual can be downloaded from the link below.  
+-- Insert link --
+<br/>
+## Release Notes
+Release notes will be published on the page below and will be updated at every new release.  
+-- Release note link --
