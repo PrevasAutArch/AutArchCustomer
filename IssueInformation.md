@@ -12,11 +12,13 @@ These labels are available:
 - MinorBackendBug
 - FeatureRequestUI
 - FeatureRequestBackend
+<br/>
 ### Submitting bug
 When submitting a bug the following information will be helpful for the developers:
 - Short description of what happens
 - Step by step instruction of how to reproduce the problem
 - Version of AutArch
+<br/>
 ### Submitting a feature request
 When submitting a feature request the following information will be helpful for the developers:
 - Use case
