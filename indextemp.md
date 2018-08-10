@@ -4,7 +4,7 @@ This GitHub repository will be used to give AutArch customer a better insight an
 <br/>
 ## Contact
 If you have any questions regarding the product or are in need of any kind of support please don't hesitate to contact us.  
-AutArch-Support@Prevas.se
+[AutArch-Support@Prevas.se](AutArch-Support@Prevas.se)
 <br/>
 ## News
 The latest news will be presented here -- news page --  
