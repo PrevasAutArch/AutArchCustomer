@@ -7,12 +7,13 @@ If you have any questions regarding the product or are in need of any kind of su
 [AutArch-Support@Prevas.se](mailto:AutArch-Support@Prevas.se)
 <br/>
 ## News
-The latest news will be presented here -- news page --  
-!Can we really keep up a steady news flow???!
+The latest news will be presented on the news page.  
+-- news page --  !Can we really keep up a steady news flow???!
 <br/>
 ## Issues
 Issues are used to report bugs or add feature requests.  
-For more information regarding issues please go to -- issue page link --
+For more information regarding issues please use the link below.  
+[Issue information](IssueInformation)
 <br/>
 ## AutArch Manual
 The last version of the AutArch Manual can be downloaded from the link below.  
