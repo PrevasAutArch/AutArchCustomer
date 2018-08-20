@@ -9,7 +9,10 @@ selected.
 - It is not possible to disable diagnostic tags for anything except calculation agent.
 - Memory leak in calculation. As temporary workaround the ChaosMonkey can be used to
 restart the agents at desired interval.
+<br/>
+<br/>
 # Releases
+<br/>
 ## 3.3.0
 ### New features
 - Compression analyzer: New tool for reviewing and configuring compression settings.
@@ -52,6 +55,8 @@ restart the agents at desired interval.
 - TimeGroup with TagValueGrid did not work, #193
 - EventGrid menu of selected columns was not correct when opening saved workspace, #92
 - Improved selection of EventGrid columns, #91
+<br/>
+<br/>
 ## 3.2.8
 ### New features
 - System alarm check at startup is configurable, #129.
@@ -65,10 +70,14 @@ restart the agents at desired interval.
 - Workspace does not appear on top when started, #126.
 - Calculation agent stopped progressing in time, #132.
 - TimePeriod and AADateTime is configurable in ServiceMonitor.
+<br/>
+<br/>
 ## 3.2.7
 ### New features
 ### Fixed bugs
 - Fixed problems in XMZ export.
+<br/>
+<br/>
 ## 3.2.6
 ### New features
 - Improved data fetching performance.
@@ -81,14 +90,23 @@ restart the agents at desired interval.
 - Updated codesign certificate.
 - Improved data fetching performance
 ### Fixed bugs
+- 
+<br/>
+<br/>
 ## 3.2.5
 ### New features
 - Event filter for OPCAE and OPCUA.
 ### Fixed bugs
+- 
+<br/>
+<br/>
 ## 3.2.4
 ### New features
+- 
 ### Fixed bugs
 - Fixed problems in XMZ export.
+<br/>
+<br/>
 ## 3.2.3
 ### New features
 ### Fixed bugs
