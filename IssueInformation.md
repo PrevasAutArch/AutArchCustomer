@@ -1,4 +1,5 @@
 # Issue information
+[See all issues on this page](issues)
 ## Submitting an issue
 Before submitting a new issue please look through the list of open issues too see if it already has been reported.  
 If you find any issue that matches yours please leave a comment help the developers prioritize.  
