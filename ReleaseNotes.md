@@ -34,6 +34,7 @@ selected.
 - Major improvement of memory usage in Workspace, #208
 - All event filters are available in combo box above grid, #182
 - TimeSelector Offset is disabled when not in any timegroup, #183
+
 ### Fixed bugs
 - Solved a memory leak in Calculation agent
 - Installation of AutArch Workspace adds the correct user rights to the installation folder,
