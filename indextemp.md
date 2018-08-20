@@ -16,7 +16,7 @@ For more information regarding issues please use the link below.
 <br/>
 ## AutArch Manual
 The last version of the AutArch Manual can be downloaded from the link below.  
--- Insert link --
+[AutArch Manual](AutArch Manual)
 <br/>
 <br/>
 ## Release Notes
