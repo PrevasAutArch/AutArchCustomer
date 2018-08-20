@@ -60,12 +60,12 @@ selected.
 
 ## 3.2.8
 ### New features
-- System alarm check at startup is configurable, #129.
-- SQL Patch 3.0.1.03
-- Max sweep size configurable for Calculation agent.
-- Max end time configurable for Calculation agent.
-- Excel export includes milliseconds in timestamps.
-- Opening a default config in ServiceMonitor if requested config does not exist.
+	- System alarm check at startup is configurable, #129.
+	- SQL Patch 3.0.1.03
+	- Max sweep size configurable for Calculation agent.
+	- Max end time configurable for Calculation agent.
+	- Excel export includes milliseconds in timestamps.
+	- Opening a default config in ServiceMonitor if requested config does not exist.
 ### Fixed bugs
 - Tags not added to plugin when starting workspace from command line, #130.
 - Workspace does not appear on top when started, #126.
