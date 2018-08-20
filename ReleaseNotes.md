@@ -14,8 +14,6 @@ restart the agents at desired interval.
 ### New features
 - Compression analyzer: New tool for reviewing and configuring compression settings.
 - New test platform for long running tests, Long running platform.
-192 AutArch Manual
-© 2018 Prevas AB
 - Upgraded IronPython (used in python calculations) from version 2.7.3 to 2.7.8
 - Improved performance of XMZ export from databases with large dbo.Change tables.
 - Database patch 3.0.1.06
@@ -86,8 +84,6 @@ restart the agents at desired interval.
 ## 3.2.5
 ### New features
 - Event filter for OPCAE and OPCUA.
-194 AutArch Manual
-© 2018 Prevas AB
 ### Fixed bugs
 ## 3.2.4
 ### New features
@@ -127,8 +123,8 @@ amount.
 - OPCDA Client sometimes attempted to reconnect to the server while the client was shutting
 down.
 - Multiple GUI fixes in Workspace.
-4.2.10 3.2.0
-4.2.10.1 New features
+## 3.2.0
+### New features
 - Dashboard officially supported.
 - Report officially supported.
 - LiveExcel officially supported.
@@ -143,7 +139,7 @@ AutArchDatabasePatcher.
 - OPCServer and OPCGroup configuration in Admin are equalized with other tabs.
 - Admin search is using wildcards instead of regex.
 - User-friendly configuration dialog when installing ClickOnce Workspace.
-4.2.10.2 Fixed bugs
+### Fixed bugs
 - CalculationAgent config sometimes gets corrupted.
 - Comparison of datetime rounded to SqlDatetime gave unexpected result.
 - Memory leak in CalculationAgent.
@@ -153,23 +149,21 @@ AutArchDatabasePatcher.
 - OPCAE Recording Node did not run SigForceUpdate which caused AutArch Status to
 alarm.
 - Minor GUI improvements in AutArch Workspace.
-4.2.11 3.1.2
-4.2.11.1 New features
+## 3.1.2
+### New features
 - Database version 3.0.0.08
-196 AutArch Manual
-© 2018 Prevas AB
-4.2.11.2 Fixed bugs
+### Fixed bugs
 - Not polling values for tags with subscription problems.
 - Extra poll attempt after successfully setting up subscriptions.
 - Reduced unnecessary logging.
 - Memory leak in CaclulationAgent.
-4.2.12 3.1.1
-4.2.12.1 New features
+## 3.1.1
+### New features
 Last value only stays in collector service for max 10 minutes #41
-4.2.12.2 Fixed bugs
+### Fixed bugs
 - Validation of the value insurance platform is not working.
-4.2.13 3.1.0
-4.2.13.1 New features
+## 3.1.0
+### New features
 - Calculation Agent is now fully tested and approved
 - All RecordingNodes poll values for all tags when started
 - Improved Broker performance
@@ -177,25 +171,26 @@ Last value only stays in collector service for max 10 minutes #41
 - Added comments to configuration files
 - AutArch components logs their own errors to eventlog in database.
 - Database version 3.0.0.04
-4.2.13.2 Fixed bugs
+### Fixed bugs
 - Invallid char in XMZ Export, #23
 - Error serializing TuneStatusEnum in offline config, #25
 - Error serializing PythonInof in offline config, #2
-4.2.14 3.0.0
-4.2.1# New features
+## 3.0.0
+### New features
 - Improved performance and resolved bugs by moving calculations from the DataBroker to
 CalculationAgent.
 - To make installation simpler all nodes are now hosted in a CentralServices
 - The old Admin application is completely replaced by the new tool included in Workspace.
 - Improved test coverage with new testplatforms
-4.2.1# Fixed bugs
+### Fixed bugs
 - Problems with calculation order of Python calculations
 - Performance issues in DataBroker
-4.2.15 2.0.0
-4.2.15.1 New features
+## 2.0.0
+### New features
 - Complete rebuild of Service Framework including new OPC clients
 - OPCClients can react on new tag configuration and apply it in runtime without restart
 - S7Adapter (fastlogger) used for faster sampling of values from Siemens S7 systems
 - Redundant adapters/brokers
 - Easier creation of aggregated tags
 - Calculations written in Python
+### Fixed bugs
