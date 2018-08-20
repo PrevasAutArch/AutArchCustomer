@@ -8,7 +8,7 @@ If you have any questions regarding the product or are in need of any kind of su
 [AutArch-Support@Prevas.se](mailto:AutArch-Support@Prevas.se)
 <br/>
 <br/>
-## Issues
+## Reporting issues
 Issues are used to report bugs or add feature requests.  
 For more information regarding issues please use the link below.  
 [Issue information](IssueInformation)
