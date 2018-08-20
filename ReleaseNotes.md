@@ -34,6 +34,7 @@ selected.
 - Major improvement of memory usage in Workspace, #208
 - All event filters are available in combo box above grid, #182
 - TimeSelector Offset is disabled when not in any timegroup, #183
+<br/>
 
 ### Fixed bugs
 - Solved a memory leak in Calculation agent
@@ -56,6 +57,7 @@ selected.
 - Improved selection of EventGrid columns, #91
 <br/>
 <br/>
+
 ## 3.2.8
 ### New features
 - System alarm check at startup is configurable, #129.
