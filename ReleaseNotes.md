@@ -11,7 +11,8 @@ selected.
 <br/>
 
 # Releases
-## 3.3.0
+<details><summary>3.3.0</summary>
+<p>
 ### New features
 - Compression analyzer: New tool for reviewing and configuring compression settings.
 - New test platform for long running tests, Long running platform.
@@ -39,6 +40,9 @@ selected.
 ### Fixed bugs
 - Solved a memory leak in Calculation agent
 - Installation of AutArch Workspace adds the correct user rights to the installation folder,
+</p>
+</details>
+
 #146
 - ServiceMonitor configuration file is always created in the installation folder
 - Events were not removed from the event grid in live mode, #158
@@ -66,6 +70,7 @@ selected.
 	- Max end time configurable for Calculation agent.
 	- Excel export includes milliseconds in timestamps.
 	- Opening a default config in ServiceMonitor if requested config does not exist.
+	
 ### Fixed bugs
 - Tags not added to plugin when starting workspace from command line, #130.
 - Workspace does not appear on top when started, #126.
