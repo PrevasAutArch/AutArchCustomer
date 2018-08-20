@@ -13,7 +13,9 @@ selected.
 ## collapsible markdown?
 
 <details>
-<summary># 3.3.0</summary>
+<summary>
+  # 3.3.0
+</summary>
 <p>
 
 #### yes, even hidden code blocks!
