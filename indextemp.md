@@ -21,4 +21,4 @@ The last version of the AutArch Manual can be downloaded from the link below.
 <br/>
 ## Release Notes
 Release notes will be published on the page below and will be updated at every new release.  
--- Release note link --
+[Release Notes](ReleaseNotes)
