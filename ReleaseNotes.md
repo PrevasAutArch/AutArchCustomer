@@ -14,6 +14,7 @@ restart the agents at desired interval.
 
 # Releases
 <br/>
+
 ## 3.3.0
 ### New features
 - Compression analyzer: New tool for reviewing and configuring compression settings.
