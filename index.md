@@ -51,7 +51,9 @@ This GitHub repository will be used to give AutArch customer a better insight an
 <br/>
 <br/>
 <br/>
-<sub><sub><sub>[Go to temporary page](indextemp)</sub></sub></sub>
+<sub><sub><sub>
+  [Go to temporary page](indextemp)
+</sub></sub></sub>
 
 
 
