@@ -15,7 +15,7 @@ For more information regarding issues please use the link below.
 <br/>
 <br/>
 ## Wiki
-The wiki is open for anyone to edit or add to. Please share your knowledge!
+The wiki is open for anyone to edit or add to. Please share your knowledge!  
 [Wiki](https://github.com/PrevasAutArch/AutArchCustomer/wiki)
 <br/>
 <br/>
