@@ -14,6 +14,11 @@ For more information regarding issues please use the link below.
 [Issue information](IssueInformation)
 <br/>
 <br/>
+## Wiki
+The wiki is open for anyone to edit or add to. Please share your knowledge!
+[Wiki](https://github.com/PrevasAutArch/AutArchCustomer/wiki)
+<br/>
+<br/>
 ## AutArch Manual
 The last version of the AutArch Manual can be downloaded from the link below.  
 [AutArch Manual](AutArch Manual.pdf)
