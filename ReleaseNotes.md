@@ -7,8 +7,6 @@ selected.
 - Minor GUI problems in Workspace.
 - All system stat tags gets qualified to the first node in OPCServer list
 - It is not possible to disable diagnostic tags for anything except calculation agent.
-- Memory leak in calculation. As temporary workaround the ChaosMonkey can be used to
-restart the agents at desired interval.
 # Releases
 ## 3.3.0
 ### New features
