@@ -8,6 +8,13 @@ selected.
 - All system stat tags gets qualified to the first node in OPCServer list
 - It is not possible to disable diagnostic tags for anything except calculation agent.
 # Releases
+## 3.4.0 (incomplete)
+### New features
+- Disk size limit for buffers configured in free GB instead of percent of disk space, Customer#3
+- Tags can be configured so that they don't get purged, Customer#11
+- Configurable (shorter names) for AASysStat tags, Customer#13
+### Fixed bugs
+
 ## 3.3.0
 ### New features
 - Compression analyzer: New tool for reviewing and configuring compression settings.
