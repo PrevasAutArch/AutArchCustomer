@@ -4,7 +4,6 @@
 opened for the wrong service.
 As a temporary workaround a label is added to the top of the menu showing wich service is
 selected.
-- Minor GUI problems in Workspace.
 - All system stat tags gets qualified to the first node in OPCServer list
 - It is not possible to disable diagnostic tags for anything except calculation agent.
 # Releases
