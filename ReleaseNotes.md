@@ -10,11 +10,27 @@ selected.
 # Releases
 ## 3.4.0 (incomplete)
 ### New features
-- Disk size limit for buffers configured in free GB instead of percent of disk space, Customer#3
-- Tags can be configured so that they don't get purged, Customer#11
-- Configurable (shorter names) for AASysStat tags, Customer#13
+- XMZ files can be exported/imported from Workspace wizards.
+- Compression analyzer is password protected, #280
+- Tags can be marked as DoNotPurge so that will be ignored by DBPurge and keep their data forever, #273 Customer#11
+- Recompress feature in Compression analyzer, #258 Customer#6
+- All logging are normalized and uses the settings from app.config, #271
+- Disk size limit for fifo buffers are configured in free GB instead of % (default 10), Customer#3
+- Visual improvements of Compression analyzer, Cusotmer#4 Customer#5
+- Installation of Recording nodes made easier, Customer#8
+- Comments are added to all configurations in ServiceMonitor
+- OPCUA inspector improved, Customer#12
+- Configurable names for AASysStat tags, Customer#13
 ### Fixed bugs
-
+- Small memory leak in OPCAE client, #268
+- XMZ export could not handle OPCServers without any ForceUpdTime, #274
+- XMZ export does not stop at the first error, #274
+- Sometimes nodes where missing from ServiceMonitor, #266
+- Compression analyzer could not handle tag names starting with whitespace, #257
+- Database setup did not verify paths before trying to start installation, #250
+- Event grid filter was not applied when loading saved Workspace, Customer#21
+- Unit conversions could not be saved in admin, Customer#20
+- Incorrect behaviour in admin when tags are saved while freeze button is pressed, Customer#7
 ## 3.3.0
 ### New features
 - Compression analyzer: New tool for reviewing and configuring compression settings.
