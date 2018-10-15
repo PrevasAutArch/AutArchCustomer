@@ -34,6 +34,10 @@ selected.
 - Event grid filter was not applied when loading saved Workspace, Customer#21
 - Unit conversions could not be saved in admin, Customer#20
 - Incorrect behaviour in admin when tags are saved while freeze button is pressed, Customer#7
+## 3.3.1
+### New features
+### Fixed bugs
+- Fixed problems in XMZ export.
 ## 3.3.0
 ### New features
 - Compression analyzer: New tool for reviewing and configuring compression settings.
