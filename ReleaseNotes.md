@@ -7,7 +7,11 @@ selected.
 - All system stat tags gets qualified to the first node in OPCServer list
 - It is not possible to disable diagnostic tags for anything except calculation agent.
 # Releases
-## 3.4.0 (incomplete)
+## 3.4.1
+### New features
+### Fixed bugs
+- Fixed some problems with GlobalUpdate
+## 3.4.0
 ### New features
 - XMZ files can be exported/imported from Workspace wizards.
 - Compression analyzer is password protected, #280
