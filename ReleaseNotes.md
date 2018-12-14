@@ -7,6 +7,20 @@ selected.
 - All system stat tags gets qualified to the first node in OPCServer list
 - It is not possible to disable diagnostic tags for anything except calculation agent.
 # Releases
+## 3.4.4
+### New features
+### Fixed bugs
+- Procedure for storing digital values could cause primary key exceptions
+- Calculating agent could create invalid values for realtime calculations that should have no trigg during calc period
+## 3.4.3
+### New features
+- OPCUA client can sync time according to spefied node
+### Fixed bugs
+## 3.4.2
+### New features
+- Updated procedure for recalculating digital counters
+### Fixed bugs
+- Digital counters could be reset by polled values
 ## 3.4.1
 ### New features
 ### Fixed bugs
