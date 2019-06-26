@@ -7,6 +7,14 @@ selected.
 - All system stat tags gets qualified to the first node in OPCServer list
 - It is not possible to disable diagnostic tags for anything except calculation agent.
 # Releases
+## 3.4.6
+### New features
+### Fixed bugs
+- Fixed deserialisation of data collector event buffer files
+## 3.4.5
+### New features
+- Performance improvement in data collector services
+### Fixed bugs
 ## 3.4.4
 ### New features
 ### Fixed bugs
