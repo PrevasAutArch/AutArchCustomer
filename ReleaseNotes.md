@@ -7,6 +7,13 @@ selected.
 - All system stat tags gets qualified to the first node in OPCServer list
 - It is not possible to disable diagnostic tags for anything except calculation agent.
 # Releases
+## 3.4.8
+### New features
+### Fixed bugs
+- Broker could crash if adapter starts sending values before recieving values from server
+## 3.4.7
+### New features
+### Fixed bugs
 ## 3.4.6
 ### New features
 ### Fixed bugs
