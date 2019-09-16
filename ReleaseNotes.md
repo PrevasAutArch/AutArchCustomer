@@ -10,7 +10,7 @@ selected.
 ## 3.4.8
 ### New features
 ### Fixed bugs
-- Broker could crash if adapter starts sending values before recieving values from server
+- Broker crashed if adapter starts sending values before recieving values from server
 ## 3.4.7
 ### New features
 ### Fixed bugs
