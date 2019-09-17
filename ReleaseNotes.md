@@ -14,6 +14,7 @@ selected.
 ## 3.4.7
 ### New features
 ### Fixed bugs
+- Aggregation and calculations could not trigger on periods above 1 day and below 1 month
 ## 3.4.6
 ### New features
 ### Fixed bugs
