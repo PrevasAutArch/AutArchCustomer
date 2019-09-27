@@ -9,8 +9,10 @@ selected.
 # Releases
 ## 3.4.8
 ### New features
+- Possible to run multiple automatic XMZ exports with different filters.
 ### Fixed bugs
 - Broker crashed if adapter starts sending values before recieving values from server
+- Digital values repeated by ForceSaveTime dissappears in database (db patch 3.1.0.09)
 ## 3.4.7
 ### New features
 ### Fixed bugs
